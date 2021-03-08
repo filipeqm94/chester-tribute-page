@@ -1,4 +1,4 @@
-#Chester Bennington Tribute page
+# Chester Bennington Tribute page
 
 Check out project here: https://filipeqm94.github.io/chester-tribute-page/
 
