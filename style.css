@@ -56,12 +56,22 @@ body {
 
 #tribute-info {
   margin: 1vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 li {
   margin: 2vh;
 
   list-style: none;
+}
+
+blockquote {
+  position: relative;
+
+  width: 50%;
 }
 
 footer {
