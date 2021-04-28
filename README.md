@@ -8,6 +8,11 @@ This is a project on **Responsive Web Design** from [freeCodeCamp](https://www.f
 
 The purpose of this project is to apply what I've learn about Reponsive Web Design with the [freeCodeCamp tutorials](https://www.freecodecamp.org/learn/responsive-web-design).
 
+### Technologies used
+
+- HTML
+- CSS
+
 ### Link to challenge
 
 [Build a Tribute Page](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
