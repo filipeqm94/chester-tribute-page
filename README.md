@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a project on Responsive Web Design from [freeCodeCamp](https://www.freecodecamp.org/).
+This is a project on **Responsive Web Design** from [freeCodeCamp](https://www.freecodecamp.org/).
 
 ## Purpose
 
